@@ -26,7 +26,7 @@ Building programs with R - James Robinson
 ###### Day 2
 Building programs with R  - Andrew MacDonald
 
-Version Control with Git - Tiffany Timbers
+Version Control with Git - James Robinson
 
 
 
