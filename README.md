@@ -16,6 +16,8 @@ Workshop etherpad: https://etherpad.mozilla.org/2015-04-30-SFU
 ### Tentative Teaching Schedule
 
 ##### R room:
+helpers: Catrina Loucks
+
 ###### Day 1
 The Unix Shell  - Tiffany Timbers	
 
@@ -30,6 +32,8 @@ Version Control with Git - Tiffany Timbers
 
 
 ##### Python room:
+helpers: Bruno Grande, Karina Musalem, Nancy Soontiens
+
 ###### Day 1
 
 The Unix Shell  - Thea Van Rossum
