@@ -1,7 +1,7 @@
 ## 2015-04-30 Software Carpentry Workshop at Simon Fraser University
 
 ### Where
-Simon Fraser University
+Simon Fraser University, Burnaby Campus
 
 West Mall Centre
  
