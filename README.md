@@ -26,7 +26,7 @@ Building programs with R - James Robinson
 ###### Day 2
 Building programs with R  - Andrew MacDonald
 
-Version Control with Git - James Robinson
+Version Control with Git - James Robinson (2nd projector has been booked from MBB from 12:15-5:00pm)
 
 
 
@@ -43,5 +43,5 @@ Building programs with Python - Doug Latornell
 ###### Day 2
 Building programs with Python - Bill Mills
 
-Version Control with Git - Daisie Huang
+Version Control with Git - Daisie Huang (2nd projector has been booked from MBB from 12:15-5:00pm)
 
