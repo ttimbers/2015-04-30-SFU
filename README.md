@@ -32,13 +32,13 @@ Version Control with Git - James Robinson
 
 
 ##### Python room:
-helpers: Bruno Grande, Karina Musalem, Nancy Soontiens
+helpers: Bruno Grande, Karina Musalem, Nancy Soontiens (Day 2 only)
 
 ###### Day 1
 
 The Unix Shell  - Thea Van Rossum
 
-Building programs with Python - Daisie Huang
+Building programs with Python - Doug Latornell
 
 ###### Day 2
 Building programs with Python - Bill Mills
