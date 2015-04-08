@@ -25,10 +25,10 @@ helpers: Catrina Loucks, Nancy Soontiens (Day 1)
 ###### Day 1
 The Unix Shell  - Tiffany Timbers	
 
-Building programs with R - James Robinson
+Building programs with R - Andrew MacDonald, Evan Morien, James Robinson
 
 ###### Day 2
-Building programs with R  - Andrew MacDonald
+Building programs with R  - Andrew MacDonald, Evan Morien, James Robinson
 
 Version Control with Git - James Robinson (2nd projector has been booked from MBB from 12:15-5:00pm)
 
