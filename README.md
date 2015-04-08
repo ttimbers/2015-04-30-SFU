@@ -11,7 +11,9 @@ Room 2200 (R stream) and 2202 (Python stream)
 
 Workshop website: http://ttimbers.github.io/2015-04-30-SFU/
 
-Workshop etherpad: https://etherpad.mozilla.org/2015-04-30-SFU
+General Workshop etherpad: https://etherpad.mozilla.org/2015-04-30-SFU
+R room etherpad: https://etherpad.mozilla.org/2015-04-30-SFU-R
+Python room etherpad: https://etherpad.mozilla.org/2015-04-30-SFU-Python
 
 ### Tentative Teaching Schedule
 
