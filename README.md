@@ -20,7 +20,7 @@ Python room etherpad: https://etherpad.mozilla.org/2015-04-30-SFU-Python
 ### Tentative Teaching Schedule
 
 ##### R room:
-helpers: Catrina Loucks, Nancy Soontiens (Day 1)
+helpers: Remi Daigle, Catrina Loucks, Nancy Soontiens (Day 1)
 
 ###### Day 1
 The Unix Shell  - Tiffany Timbers	
