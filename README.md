@@ -14,9 +14,11 @@ Workshop website: http://ttimbers.github.io/2015-04-30-SFU/
 General Workshop etherpad: https://etherpad.mozilla.org/2015-04-30-SFU
 
 R room etherpad: https://etherpad.mozilla.org/2015-04-30-SFU-R
+
 R room data to download: https://github.com/ttimbers/2015-04-30-SFU/blob/gh-pages/data/data_R.zip?raw=true
 
 Python room etherpad: https://etherpad.mozilla.org/2015-04-30-SFU-Python
+
 Python room data to download: https://github.com/ttimbers/2015-04-30-SFU/blob/gh-pages/data/data_python.zip?raw=true
 
 
