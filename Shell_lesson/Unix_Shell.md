@@ -91,4 +91,12 @@ Data Bank format, a simple text format that specifies the type and position of e
 in the molecule.
 
 * Take a look at what is in the `molecules` directory: `ls molecules`
-* 
+* Let's look in one of these files, we can use the `cat` command to do this: 
+`cat octane.pdb`
+* What if we want to quickly look at the number of lines, characters or words in these 
+files? We could do that using the `wc` command: `wc octane.pdb`
+* How can get this information for all of these files?
+* We can use `*` to do this! `wc *.pdb`
+* If we are only interested in the number of lines in each file we can use the `-l` flag:
+`wc -l *.pdb`
+
