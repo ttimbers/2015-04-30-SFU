@@ -1,4 +1,7 @@
-gapminder_plot_fun<-function(gapminder, outformat=c("PDF", "SVG", "PNG")) {
+gapminder_plot_fun<-function(gapminder, outformat=c("PDF")) {
+  
+  if(!any(outformat %in% c("PDF", "SVG", "PNG"))) stop("give a correct output format")
+  
   means<-aggregate(cbind(lifeExp, pop) ~ country + continent, gapminder, mean)
   
   maintitle<-c("Avg. Life Expectancies vs. Population in Different Countries")
@@ -12,7 +15,7 @@ gapminder_plot_fun<-function(gapminder, outformat=c("PDF", "SVG", "PNG")) {
   else if (outformat == "PNG") {
     png("gapminder_pop_vs_life_expectancy.png")
   }
-  else (outformat == "SVG") {
+  else {
     svg("gapminder_pop_vs_life_expectancy.svg")
   }
   plot(log(means$pop), means$lifeExp, main=maintitle, pch=20)
