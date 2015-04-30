@@ -27,6 +27,33 @@ Do we think that's too much? I could do away with adding keys, changing text ori
 
 How about a function that takes three arguments - dataset name, x variable and y variable. Then does just one thing - either draws a plot OR does a linear model an extracts the slope, whatever.
 
+
+notes from Andrew
+calcGDP <- function(dat) {
+  gdp <- dat$pop * dat$gdpPercap
+  return(gdp)
+}
+
+library(gapminder)
+
+gapminder$gdp <- calcGDP(gapminder)
+
+USD_to_CAD <- function(usdollar){
+  cad <- usdollar * 1.21
+  return(cad)
+}
+
+gdpCAD <- function(money){
+  gdp <- calcGDP(money)
+  cad <- USD_to_CAD(gdp)
+  return(cad)
+}
+
+gdpCAD(gapminder[1,])
+
+
+
+
 Here is a function that makes a plot from the gapminder data. TO BE CONVERTED TO A SCRIPT THAT TAKES INPUTS:
 
 gapminder_plot_fun<-function(gapminder, outformat=c("PDF", "SVG", "PNG")) {
