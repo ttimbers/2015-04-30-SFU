@@ -1,6 +1,5 @@
 gapminder_plot_fun<-function(gapminder, outformat=c("PDF", "SVG", "PNG")) {
   means<-aggregate(cbind(lifeExp, pop) ~ country + continent, gapminder, mean)
-  mean_pop<-aggregate(pop ~ country + continent, gapminder, mean)
   
   maintitle<-c("Avg. Life Expectancies vs. Population in Different Countries")
   myylab<-c("average life expectancy") 
