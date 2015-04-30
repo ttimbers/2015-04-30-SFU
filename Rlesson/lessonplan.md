@@ -37,7 +37,7 @@ gapminder_plot_fun<-function(gapminder, outformat=c("PDF", "SVG", "PNG")) {
 	myylab<-c("average life expectancy") 
 	myxlab<-c("average population")
 	
-#this if/ifelse/else statement will determine which output format is used
+#this if ifelse else statement will determine which output format is used
 	if (outformat == "PDF") { #if statements determine what the plot output format will be
 		pdf("gapminder_pop_vs_life_expectancy.pdf")
 	}
